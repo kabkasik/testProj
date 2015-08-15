@@ -1,0 +1,286 @@
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+
+    <title>Free Mercurial and Git Client for Windows and Mac | Atlassian SourceTree</title>
+    <meta name="description" content="SourceTree is a free Mercurial and Git Client for Windows and Mac that provides a graphical interface for your Hg and Git repositories." />
+    <meta name="keywords" content="git, mac, client, gui, git client, git app, git gui, vcs, version control, mercurial, subversion, svn, windows">
+
+    <link rel="icon" type="image/png" href="favicon.ico?v=2">
+
+    <link href="css/yui.yahooapis.com/2.8.1/build/reset/reset-min.css" rel="stylesheet" type="text/css" />
+    <link href="css/yui.yahooapis.com/2.9.0/build/fonts/fonts-min.css" rel="stylesheet" type="text/css" />
+    <link href="css/main.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="https://use.typekit.net/klz7bax.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script src="//cdn.optimizely.com/js/235907696.js"></script>
+</head>
+<body class="home">
+
+<div class="header">
+    <div class="box">
+        <a href="/"><img src="./images/logoSourceTree.png" class="hidef" width="250" alt="SourceTree" /></a>
+        <div class="cta win">
+            <h1>A free Git &amp; Mercurial client for Windows or Mac.</h1>
+            <a class="download" href="/download">
+              <span class="inner-border">
+                <span class="title">Download SourceTree Free</span><br />
+                <span class="windows">Microsoft Windows 7+</span>
+              </span>
+            </a>
+            
+            <a href="http://downloads.atlassian.com/software/sourcetree/SourceTree_2.0.5.2.dmg" class="altOS">Download SourceTree for Mac OS X 10.7+</a>
+        </div>
+        <div class="cta mac">
+            <h1>A free Git &amp; Mercurial client for Windows or Mac.</h1>
+            <a class="download" href="/download">
+              <span class="inner-border">
+                <span class="title">Download SourceTree Free</span><br />
+                <span class="mac">Mac OS X 10.7+</span>
+              </span>
+            </a>
+            
+            <a href="http://downloads.atlassian.com/software/sourcetree/windows/SourceTreeSetup_1.6.20.exe" class="altOS">Download SourceTree for Windows 7+</a>
+        </div>
+        <div id="hero" class="hero">
+          <a href="#" class="buttons prev">Previous</a>
+          <div class="viewport">
+              <ul class="overview clearfix">
+                <li><img src="./images/sourcetree-hero-mac-log.png" class="mac hidef" />
+                  <img src="./images/sourcetree_hero_win_full_interface_windows.png" class="win" /></li>
+                <li><img src="./images/sourcetree-hero-mac-filestatus.png" class="mac hidef" />
+                  <img src="./images/sourcetree_hero_win_history_windows.png" class="win" /></li>
+                <li><img src="./images/sourcetree-hero-mac-clean.png" class="mac hidef" />
+                  <img src="./images/sourcetree_hero_win_modifications_windows.png" class="win" /></li>
+                <li><img src="./images/sourcetree-hero-mac-bookmarks.png" class="mac hidef" />
+                  <img src="./images/sourcetree_hero_win_bookmarks_windows.png" class="win" /></li>
+              </ul>
+          </div>
+          <a href="#" class="buttons next">Next</a>
+          <div class="pager"></div>
+        </div>
+    </div>
+
+</div>
+<div class="content">
+    <div class="box">
+        <div class="services">
+            <h2>Connects with other Git &amp; Hg Services</h2>
+            <ul>
+                <li><a href="https://bitbucket.org"><img src="images/logoBB.png" class="hidef" height="47" alt="Bitbucket" /></a></li>
+                <li><a href="http://www.atlassian.com/software/stash/"><img src="images/logoStash.png" height="47" class="hidef" alt="Stash" /></a></li>
+                <li><a href="https://github.com"><img src="images/logoGithub.png" alt="Github" class="hidef" height="47" /></a></li>
+                <li><a href="http://www.fogcreek.com/kiln/"><img src="images/logoKiln.png" alt="Kiln" class="hidef" height="47" /></a></li>
+            </ul>
+        </div>
+        <div class="features">
+            <ul>
+                <li><img src="./images/sourcetree_tour_DVCS.png" class="hidef" />
+                    <h3>Full-powered DVCS</h3>
+                    <p>Say goodbye to the command line – use the full capability of Git and Mercurial in the SourceTree desktop app. Manage all your repositories, hosted or local, through SourceTree's simple interface.</p></li>
+                <li><img src="./images/sourcetree_tour_beginners.png" class="hidef" />
+                    <h3>Perfect for newcomers</h3>
+                    <p>Simplify DVCS for your team. SourceTree can bring everyone up to speed with Git and Mercurial. Create, clone, commit, push, pull, merge, and more are all just a click away.</p></li>
+                <li><img src="./images/sourcetree_tour_experts.png" class="hidef" />
+                    <h3>Powerful enough for experts</h3>
+                    <p>Make advanced Git and Mercurial devs even more productive. Review your outgoing and incoming changesets, cherry-pick between branches, patch handling, rebase, stash, shelve, and much more.</p></li>
+                <li><img src="./images/sourcetree_tour_gitflow.png" class="hidef" />
+                    <h3>Git-flow and Hg-flow out of the box</h3>
+                    <p>Use <a href="http://atlassian.com/git/workflows#!workflow-gitflow">Git-flow</a> and Hg-flow with ease. Keep your repositories cleaner and your development more efficient with SourceTree's intuitive interface to Git and Hg's 'branchy' development model. A consistent development process, right out of the box!</p></li>
+            </ul>
+        </div>
+
+        <div class="quotes">
+            <div class="wrap">
+                <a href="#" class="buttons prev">Previous</a>
+                <div class="viewport">
+                    <ul class="overview clearfix">
+                        <li>"A shout out to developers of SourceTree - a nice GUI for git and hg. Useful even for a command-line fan like me. "<br />
+                            <a href="https://twitter.com/martinfowler/status/271001318888460290"><img src="./images/twitter_avatars/martinfowler.jpg" /> @martinfowler</a></li>
+                        <li>"SourceTree is a truly fantastic git app, it makes using git so much easier. Top stuff."<br />
+                            <a href="https://twitter.com/m_fullbrook/status/291313656266883072"><img src="./images/twitter_avatars/m_fullbrook.jpeg" /> @m_fullbrook</a></li>
+                        <li>"Your app is awesome. Nothing else to say."<br />
+                            <a href="https://twitter.com/JiDaii/statuses/274092019301888001"><img src="./images/twitter_avatars/jidali.png" /> @JiDaii</a></li>
+                        <li>"Loving the git-flow UI in Sourcetree. They nailed 'intuitive'. #geek"<br />
+                            <a href="https://twitter.com/hiway/statuses/274604278381940736"><img src="./images/twitter_avatars/hiway.jpeg" /> @hiway</a></li>
+                        <li>"@sourcetree is amazing app. I'm in love with it!"<br />
+                            <a href="https://twitter.com/ArtemMedeu/statuses/283242145320681473"><img src="./images/twitter_avatars/artemmedeu.jpg" /> @ArtemMedeu</a></li>
+                    </ul>
+                </div>
+                <a href="#" class="buttons next">Next</a>
+            </div>
+        </div>
+        <div class="cta win">
+          <a class="download" href="/download">
+            <span class="inner-border">
+              <span class="title">Download SourceTree Free</span><br />
+              <span class="windows">Microsoft Windows 7+</span>
+            </span>
+          </a>
+          
+            <a href="http://downloads.atlassian.com/software/sourcetree/SourceTree_2.0.5.2.dmg" class="altOS">Download SourceTree for Mac OS X 10.7+</a>
+        </div>
+        <div class="cta mac">
+          <a class="download" href="/download">
+            <span class="inner-border">
+              <span class="title">Download SourceTree Free</span><br />
+              <span class="mac">Mac OS X 10.7+</span>
+            </span>
+          </a>
+          
+            <a href="http://downloads.atlassian.com/software/sourcetree/windows/SourceTreeSetup_1.6.20.exe" class="altOS">Download SourceTree for Windows 7</a>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="box">
+        <div class="links"><a href="./register/">Register</a> | <a href="http://blog.sourcetreeapp.com">Blog</a> | <a href="http://twitter.com/sourcetree">Twitter</a> | <a href="./faq/">FAQ</a> | <a href="./support/">Support</a></div>
+        <div class="copyright">Copyright &copy; 2014 <a class="hidef" href="http://www.atlassian.com/">Atlassian</a></div>
+
+
+		<div class="twoCol">
+		<div class="col">
+			<h3>Sign up for Git Articles &amp; resources</h3>
+			<iframe id="signup"	width="456" height="52" frameborder="0" seamless src="https://www.atlassian.com/email-iframe/sourcetree"></iframe>			
+		</div>
+        <div class="otherlinks col">
+            <h2>Other Atlassian Git Products</h2>
+            <ul>
+                <li><a href="https://bitbucket.org/"><img src="images/logoBBBlue.png" class="hidef" width="160" alt="Bitbucket" /><br />
+                    Git repo management, in the cloud. Free unlimited private repos.</a></li>
+                <li><a href="http://www.atlassian.com/software/stash/"><img src="images/logoStashBlue.png" class="hidef" width="105" alt="Stash" /><br />
+                    Git repo management, behind your firewall and Enterprise-ready.</a></li>
+                <li><a href="http://www.atlassian.com/software/bamboo/"><img src="images/logoBambooBlue.png" class="hidef" width="145" alt="Bamboo" /><br />
+                    Continuous integration and deployment, release management.</a></li>
+            </ul>
+        </div>
+
+	</div>
+
+    </div>
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/jquery.ui.rcarousel.min.js"></script>
+<script type="text/javascript" src="js/retina.js"></script>
+<script type="text/javascript">
+    $(function(){
+        $( ".quotes .overview" ).rcarousel({
+            width:960,
+            height:145,
+            visible:1,
+            step:1,
+            navigation: {
+                prev: ".quotes .prev",
+                next: ".quotes .next"
+            }
+        });
+        $( "#hero .overview" ).rcarousel({
+            width:960,
+            height:485,
+            visible:1,
+            step:1,
+            speed:0,
+            start: generatePages,
+            pageLoaded: pageLoaded,
+            navigation: {
+                prev: ".hero .prev",
+                next: ".hero .next"
+            }
+        });
+        if (navigator.appVersion.indexOf("Mac")!=-1){
+            $('body').attr('id','mac');
+        }else{
+            $('body').attr('id','win');
+        }
+        $('.features li:odd').addClass('alt');
+        $('.cta a').hover(function(){
+          if (window.devicePixelRatio == 2) {
+            $('body').css('background-image', 'url(./images/tree_animation_on@2x.gif)');
+          }
+          else {
+            $('body').css('background-image', 'url(./images/tree_animation_on.gif)');
+          }
+          
+        },
+        function(){
+          if (window.devicePixelRatio == 2) {
+            $('body').css('background-image', 'url(./images/tree_animation_off@2x.gif)');
+          }
+          else {
+            $('body').css('background-image', 'url(./images/tree_animation_off.gif)');
+          }
+        });
+        preload([
+            'images/tree_animation_off.gif',
+            'images/tree_animation_on.gif',
+            'images/tree_animation_off@2x.gif',
+            'images/tree_animation_on@2x.gif'
+        ]);
+    });
+    function preload(arrayOfImages) {
+        $(arrayOfImages).each(function(){
+            $('<img/>')[0].src = this;
+        });
+    }
+    function generatePages() {
+        var _total, i, _link, pagerWidth;
+        _total = $("#hero .overview").rcarousel("getTotalPages");
+        pagerWidth = _total*21;
+        for (i = 0; i < _total; i++) {
+            _link = $("<a href='#'></a>");
+            $(_link)
+                    .bind("click", {page: i},
+                    function(event) {
+                        $("#hero .overview").rcarousel("goToPage", event.data.page);
+                        event.preventDefault();
+                    }
+            )
+                    .addClass("bullet off")
+                    .appendTo(".pager");
+        }
+        // mark first page as active
+        $("a:eq(0)", ".pager")
+                .removeClass("off")
+                .addClass("on");
+        $('.pager').css({'width': pagerWidth,'display':'block'});
+    }
+    function pageLoaded(event, data) {
+        $("a.on", ".pager")
+                .removeClass("on");
+        $("a", ".pager")
+                .eq(data.page)
+                .addClass("on");
+    }
+</script>
+
+<!-- Segment IO -->
+<script src="https://ace-cdn.atlassian.com/stp/current/analytics/js/atl-analytics.min.js"></script>
+<script type="text/javascript">ace.analytics.Initializer.initWithPageAnalytics('IqCKPfnEzIXhtx4Xr2QZoRgYKeLcv7Mh');</script>
+
+<!-- tracking pixel -->
+<script type="text/javascript">
+adroll_adv_id = "32VY3BYAQRHLDDVMBEAGU2";
+adroll_pix_id = "7Q44S6SDXNA4NE4TSAUFGF";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+__adroll_loaded=true;
+var scr = document.createElement("script");
+var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+scr.setAttribute('async', 'true');
+scr.type = "text/javascript";
+scr.src = host + "/j/roundtrip.js";
+((document.getElementsByTagName('head') || [null])[0] ||
+document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+if(oldonload){oldonload()}};
+}());
+</script>
+
+</body>
+</html>
